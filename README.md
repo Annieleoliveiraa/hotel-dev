@@ -1,2 +1,2 @@
 # hotel-dev
-Projeto Hotel Dev 
+Projeto Hotel Dev criado com as tecnologias Html e Css. 

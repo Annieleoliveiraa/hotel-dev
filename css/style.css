@@ -1,0 +1,69 @@
+
+* {
+   margin: 0;
+   padding: 0;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+   width: 436px;
+   height: 67px;
+   text-align: center;
+
+   font-weight: 700;
+   font-size: 64px;
+   line-height: 75px;
+
+   color: #FFFFFF;
+}
+
+.section-one {
+   background-color: lightblue;
+   width: 100%;
+   height: 140vh;
+}
+
+.container-praia {
+   max-width: 1440px;
+   height: 533px;
+   background-image: url(../assets/IMAGEM-PRAIA.jpg);
+
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.text-info {
+   color: #FFFFFF;
+   padding: 6px 0;
+
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 23.44px;
+}
+
+.btn {
+   width: 239px;
+   height: 42px;
+
+   background-color: transparent;
+   border-radius: 4px;
+
+   color: #FFFFFF;
+   border: 2px solid #FFFFFF;
+
+   margin: 40px 0;
+   font-size: 18px;
+   font-weight: 600;
+   cursor: pointer;
+
+   transition: 0.9s ease-in-out;
+}
+
+.btn:hover {
+   background-color: #23b1ee;
+}

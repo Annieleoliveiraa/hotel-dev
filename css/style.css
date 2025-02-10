@@ -150,7 +150,7 @@ h1 {
    width: 300px;
    height: 74px;
 
-   margin: 10px 0;
+   margin: 5px 0;
 
    background-color: #00A7EF;
    border: none;
@@ -158,13 +158,15 @@ h1 {
    color: #FFFFFF;
    font-size: 22px;
    font-weight: 600;
+
+   cursor: pointer;
 }
 
 .card-img2 button {
    width: 300px;
    height: 74px;
 
-   margin: 10px 0;
+   margin: 5px 0;
 
    background-color: #00A7EF;
    border: none;
@@ -172,13 +174,14 @@ h1 {
    color: #FFFFFF;
    font-size: 22px;
    font-weight: 600;
+   cursor: pointer;
 }
 
 .card-img3 button {
    width: 300px;
    height: 74px;
 
-   margin: 10px 0;
+   margin: 5px 0;
 
    background-color: #00A7EF;
    border: none;
@@ -186,4 +189,5 @@ h1 {
    color: #FFFFFF;
    font-size: 22px;
    font-weight: 600;
+   cursor: pointer;
 }
